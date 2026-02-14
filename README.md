@@ -1,16 +1,10 @@
 # diewithme
 
-A new Flutter project.
+An Entertaining Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Its not a normal chat application, There is a criteria to enter in the chat group those who passes the critera can enter in the charoom. 
+Criteria : Your phone should be in dying state and the battery must be either 5% or less.
